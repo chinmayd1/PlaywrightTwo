@@ -1,0 +1,7 @@
+https://nodejs.org/en/download - download and install
+https://code.visualstudio.com/ - download and install
+Open visual studio code - File >> Open Folder >> New Folder >> JavaScript >> Select folder
+Add the file - script.js
+3 dots >> terminal >>Open terminal >> commandPrompt >> node script.js
+
+
