@@ -6,9 +6,9 @@
 // a = 100
 // console.log(a)
 
-// const h = 100
-// console.log(h)
-// //h = 1000
+const h = 100
+console.log(h)
+//h = 1000
 
 // // Arithmetic operation
 
