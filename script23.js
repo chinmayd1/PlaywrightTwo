@@ -6,6 +6,7 @@ let info = {
         console.log("hello")
     }
 }
+
 // object ? ---> properties and methods
 console.log(info.firstName)
 info.greet()
