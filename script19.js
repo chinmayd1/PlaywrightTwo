@@ -1,7 +1,13 @@
 
+
+
 let firstName = "chinmay"
 console.log(firstName)
 console.log(typeof firstName)
+
+console.log(firstName.length)
+firstName.toUpperCase()
+
 
 let lastName = 'deshpande'
 console.log(lastName)
@@ -52,19 +58,15 @@ console.log(q6)
 
 
 // program4 
-
 let city6 = "chinmayaya"
-
 // 0   1   2   3   4   5   6  7  8 9
 // c   h   i   n   m   a   y  a  y a 
-
-
 let q7 = city6.indexOf("a")
 console.log(q7)
-
 let q8 = city6.indexOf("a",6)
 console.log(q8)
-
 let q9 = city6.lastIndexOf("a")
 console.log(q9)
 
+
+// Array ----> 

@@ -28,9 +28,7 @@ console.log(2 != 2 || 3 != 3)
 
 
 // Not - !
-
 // ! true  --> false
 // ! false --> true
-
 console.log(!(2 == 2))
 console.log(!(2 == 1))

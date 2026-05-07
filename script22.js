@@ -93,6 +93,7 @@ delete info3['age']
 let numbers = [11,22,33,11,22,33]
 console.log(numbers)
 
+// does allow to store duplicate  values
 let info4 = {
     firstName:"chinmay",
     lastName:"deshpande",

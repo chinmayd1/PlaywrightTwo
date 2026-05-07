@@ -33,16 +33,23 @@ while(i3 <= 3){
 } 
 
 // program 4
-
+// table of 2
 let i4 = 1
 while(i4 <= 10){
     console.log(i4 * 2)
     i4 = i4 + 1
 }
 
+// table of 2 with increment
 let i5 = 2
 while(i5 <= 20){
     console.log(i5)
     i5 = i5 + 2
 } 
 
+// table of 3 in reverse
+let i6 = 30
+while(i6 >= 3){
+    console.log(i6)
+    i6 = i6 - 3
+}
