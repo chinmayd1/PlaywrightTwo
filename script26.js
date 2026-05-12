@@ -80,6 +80,8 @@ mapC = new Map([
     [3,"blue"]
 ])
 
+mapC.delete("a")
+
 let q1 = mapC.has("A")
 console.log(q1)
 
